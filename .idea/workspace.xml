@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28c895d8-d073-42cc-ba80-08450269e425" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/learn-boot-aop/learn-boot-aop.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-auto/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-auto/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-auto/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/learn-boot-condition-config.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-listenter/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-skeletal/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-skeletal/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-skeletal/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-skeletal/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-skeletal/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-boot-web/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-juc/._.DS_Store" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-nio/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-nio/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-nio/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-nio/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/learn-nio/mvnw.cmd" beforeDir="false" />
-    </list>
+    <list default="true" id="28c895d8-d073-42cc-ba80-08450269e425" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/kafka-product/target/" />
     <ignored path="$PROJECT_DIR$/learn-boot-aop/target/" />
     <ignored path="$PROJECT_DIR$/learn-boot-auto/target/" />
@@ -92,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kafka-product/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="418">
+              <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -280,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-109" />
     <option name="y" value="15" />
     <option name="width" value="1920" />
@@ -313,9 +294,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn-nio/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/learn-boot-aop" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -423,15 +405,16 @@
       <option name="presentableId" value="Default" />
       <updated>1562569373790</updated>
       <workItem from="1562569375366" duration="47000" />
-      <workItem from="1562570129161" duration="5452000" />
+      <workItem from="1562570129161" duration="5742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5499000" />
+    <option name="totallyTimeSpent" value="5789000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -504,8 +487,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kafka-product/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="418">
+          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
         </state>
       </provider>
     </entry>
