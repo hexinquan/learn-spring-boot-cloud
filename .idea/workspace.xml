@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28c895d8-d073-42cc-ba80-08450269e425" name="Default Changelist" comment="" />
+    <list default="true" id="28c895d8-d073-42cc-ba80-08450269e425" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-autoenableconfig/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-bean-core/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-bean-core/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-bean-core/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/com/boot/condition/learn/BootConditionConfigApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/com/boot/condition/learn/condition/GBKCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/com/boot/condition/learn/condition/UTF8Condition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/com/boot/condition/learn/config/EncodingConverterConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/com/boot/condition/learn/converter/EncodingConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/com/boot/condition/learn/converter/GBKEncodingConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/classes/com/boot/condition/learn/converter/UTF8EncodingConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-condition-config/target/test-classes/com/boot/condition/config/BootConditionConfigApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-config-core/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-config-core/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-config-core/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-config/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-config/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-config/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn-boot-enable/._.DS_Store" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/kafka-product/target/" />
     <ignored path="$PROJECT_DIR$/learn-boot-aop/target/" />
     <ignored path="$PROJECT_DIR$/learn-boot-auto/target/" />
@@ -27,68 +50,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-boot-config/src/main/resources/config/app.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-boot-config/src/main/resources/config/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-boot-config/src/main/java/com/learn/config/conf/DataSourceConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-boot-config/src/main/java/com/learn/config/conf/RedisConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/learn-boot-auto/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka-product/src/main/java/com/spring/boot/kafkaproduct/config/KafkaProducerConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kafka-product/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/learn-boot-aop/src/main/java/com/learn/aop/aspect/Book.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -270,7 +232,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-109" />
     <option name="y" value="15" />
     <option name="width" value="1920" />
@@ -281,52 +243,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="learn-spring-boot-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-boot-aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-spring-boot-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-boot-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-spring-boot-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-boot-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-spring-boot-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-boot-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-spring-boot-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-boot-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learn-spring-boot-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-boot-aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="aspect" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
@@ -459,12 +376,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562569373790</updated>
       <workItem from="1562569375366" duration="47000" />
-      <workItem from="1562570129161" duration="5984000" />
+      <workItem from="1562570129161" duration="6319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6031000" />
+    <option name="totallyTimeSpent" value="6366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -528,9 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/learn-boot-auto/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/kafka-product/src/main/java/com/spring/boot/kafkaproduct/config/KafkaProducerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -545,12 +459,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-auto/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/learn-boot-aop/src/main/java/com/learn/aop/aspect/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-auto/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-bean-core/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-bean-core/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-auto/src/main/java/com/learn/boot/auto/AutoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-config/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-bean-core/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-config/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-config-core/mvnw">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn-boot-config-core/mvnw.cmd">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
