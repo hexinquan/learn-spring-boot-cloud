@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learn-boot-web" />
+        <module name="learn-nio" />
+        <module name="learn-boot-enable" />
+        <module name="learn-juc" />
+        <module name="learn-boot-config" />
+        <module name="learn-boot-skeletal" />
+        <module name="learn-boot-autoenableconfig" />
+        <module name="learn-boot-condition-config" />
+        <module name="learn-boot-bean-core" />
+        <module name="learn-boot-aop" />
+        <module name="learn-boot-config-core" />
+        <module name="learn-boot-listenter" />
+        <module name="kafka-product" />
+        <module name="learn-boot-auto" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="auto" target="1.8" />
+      <module name="kafka-product" target="1.8" />
+      <module name="learn-boot-aop" target="1.8" />
+      <module name="learn-boot-auto" target="1.8" />
+      <module name="learn-boot-autoenableconfig" target="1.8" />
+      <module name="learn-boot-bean-core" target="1.8" />
+      <module name="learn-boot-condition-config" target="1.8" />
+      <module name="learn-boot-config" target="1.8" />
+      <module name="learn-boot-config-core" target="1.8" />
+      <module name="learn-boot-enable" target="1.8" />
+      <module name="learn-boot-listenter" target="1.8" />
+      <module name="learn-boot-skeletal" target="1.5" />
+      <module name="learn-boot-web" target="1.8" />
+      <module name="learn-juc" target="1.8" />
+      <module name="learn-nio" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="kafka-product" options="-parameters" />
+      <module name="learn-boot-aop" options="-parameters" />
+      <module name="learn-boot-auto" options="-parameters" />
+      <module name="learn-boot-autoenableconfig" options="-parameters" />
+      <module name="learn-boot-bean-core" options="-parameters" />
+      <module name="learn-boot-condition-config" options="-parameters" />
+      <module name="learn-boot-config" options="-parameters" />
+      <module name="learn-boot-config-core" options="-parameters" />
+      <module name="learn-boot-enable" options="-parameters" />
+      <module name="learn-boot-listenter" options="-parameters" />
+      <module name="learn-boot-web" options="-parameters" />
+      <module name="learn-juc" options="-parameters" />
+      <module name="learn-nio" options="-parameters" />
+    </option>
+  </component>
+</project>

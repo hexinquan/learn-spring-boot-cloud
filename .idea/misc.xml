@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/learn-boot-aop/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-auto/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-autoenableconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-bean-core/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-condition-config/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-config/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-config-core/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-enable/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-product/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-listenter/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-skeletal/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-boot-web/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-juc/pom.xml" />
+        <option value="$PROJECT_DIR$/learn-nio/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

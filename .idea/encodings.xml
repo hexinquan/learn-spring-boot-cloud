@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/kafka-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-auto" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-autoenableconfig" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-bean-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-condition-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-config-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-enable" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-listenter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-boot-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-juc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-nio" charset="UTF-8" />
+  </component>
+</project>

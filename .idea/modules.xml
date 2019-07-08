@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-product/kafka-product.iml" filepath="$PROJECT_DIR$/kafka-product/kafka-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-aop/learn-boot-aop.iml" filepath="$PROJECT_DIR$/learn-boot-aop/learn-boot-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-auto/learn-boot-auto.iml" filepath="$PROJECT_DIR$/learn-boot-auto/learn-boot-auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-autoenableconfig/learn-boot-autoenableconfig.iml" filepath="$PROJECT_DIR$/learn-boot-autoenableconfig/learn-boot-autoenableconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-bean-core/learn-boot-bean-core.iml" filepath="$PROJECT_DIR$/learn-boot-bean-core/learn-boot-bean-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-condition-config/learn-boot-condition-config.iml" filepath="$PROJECT_DIR$/learn-boot-condition-config/learn-boot-condition-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-config/learn-boot-config.iml" filepath="$PROJECT_DIR$/learn-boot-config/learn-boot-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-config-core/learn-boot-config-core.iml" filepath="$PROJECT_DIR$/learn-boot-config-core/learn-boot-config-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-enable/learn-boot-enable.iml" filepath="$PROJECT_DIR$/learn-boot-enable/learn-boot-enable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-listenter/learn-boot-listenter.iml" filepath="$PROJECT_DIR$/learn-boot-listenter/learn-boot-listenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-skeletal/learn-boot-skeletal.iml" filepath="$PROJECT_DIR$/learn-boot-skeletal/learn-boot-skeletal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-boot-web/learn-boot-web.iml" filepath="$PROJECT_DIR$/learn-boot-web/learn-boot-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-juc/learn-juc.iml" filepath="$PROJECT_DIR$/learn-juc/learn-juc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-nio/learn-nio.iml" filepath="$PROJECT_DIR$/learn-nio/learn-nio.iml" />
+    </modules>
+  </component>
+</project>

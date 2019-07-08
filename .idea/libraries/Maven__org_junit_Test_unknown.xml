@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.junit:Test:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/Test/unknown/Test-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/Test/unknown/Test-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/Test/unknown/Test-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
