@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://lcdb?useSSL=true
+    password: 123456
+    username: root
+  cloud:
+    zookeeper:
+      connect-string: 192.168.23.128:2181
+      discovery:
+        instance-id: p1
+  application:
+    name: feginServer
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+  mapper-locations: classpath:mapper/*Mapper.xml
+
+logging:
+  level:
+    com.fegin.server.mapper: debug
