@@ -11,7 +11,7 @@
     <groupId>com.learn.context</groupId>
     <artifactId>listenter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>listenter</name>
+    <name>learn-boot-listenter</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
