@@ -11,7 +11,7 @@
     <groupId>com.learn.boot</groupId>
     <artifactId>enable</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>enable</name>
+    <name>learn-boot-enable</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

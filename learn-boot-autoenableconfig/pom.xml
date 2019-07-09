@@ -11,7 +11,7 @@
     <groupId>com.autoenable.config</groupId>
     <artifactId>bean-core</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>bean-core</name>
+    <name>learn-boot-autoenableconfig</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

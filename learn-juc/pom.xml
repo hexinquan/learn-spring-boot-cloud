@@ -11,7 +11,7 @@
     <groupId>com.learn</groupId>
     <artifactId>juc</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>juc</name>
+    <name>learn-juc</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

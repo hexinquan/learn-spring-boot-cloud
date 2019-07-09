@@ -6,9 +6,9 @@ spring:
     username: root
   cloud:
     zookeeper:
-      connect-string: 192.168.23.128:2181
       discovery:
         instance-id: p1
+      connect-string: 192.168.120:2181
   application:
     name: feginServer
 mybatis:
