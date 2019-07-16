@@ -1,0 +1,15 @@
+server:
+  port: 8090
+spring:
+  cloud:
+    zookeeper:
+      enabled: true
+      connect-string: 192.168.0.120:2181
+    config:
+      server:
+        git:
+          uri: https://github.com/hexinquan/learn-spring-boot-cloud
+          username: 630050024@qq.com
+          password: hxq98543697
+  application:
+    name: config-center
