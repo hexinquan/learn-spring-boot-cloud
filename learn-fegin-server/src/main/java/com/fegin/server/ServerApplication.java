@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @MapperScan("com.fegin.server.mapper")
-//@EnableDiscoveryClient
 public class ServerApplication {
 
     public static void main(String[] args) {
