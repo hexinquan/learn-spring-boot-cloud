@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/hexinquan/learn-spring-boot-cloud
+          uri: https://github.com/hexinquan/spring-cloud-configs
           username: 630050024@qq.com
           password: hxq98543697
   application:
