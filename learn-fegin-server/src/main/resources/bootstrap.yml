@@ -1,14 +1,15 @@
 spring:
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://lcdb?useSSL=true
-    password: 123456
-    username: root
   cloud:
     zookeeper:
       discovery:
         instance-id: p1
+        enabled: true
       connect-string: 192.168.0.120:2181
+    config:
+      discovery:
+        enabled: true
+        service-id: config-center
+      profile: dev
   application:
     name: feginServer
 mybatis:
